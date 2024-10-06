@@ -1,0 +1,11 @@
+gunicorn==20.1.0
+tqdm==4.47.0
+torch==2.2.0              # Available version from your list
+torchvision==0.17.0        # Compatible with Torch 2.4.0
+Flask==2.2.2
+werkzeug==2.2.2
+Pillow==8.1.1
+matplotlib==3.5.2
+tensorflow==2.16.1         # Use the latest version available in your environment
+numpy==1.24.3              # Works with both TensorFlow 2.16.x and PyTorch 2.4.x
+typing-extensions==4.8.0
